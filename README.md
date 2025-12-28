@@ -54,4 +54,11 @@ jupyter lab
 4) Open:
 ```bash
 notebooks/01_eda.ipynb
+```
+
+## Outputs (example)
+
+![Rent distribution](outputs/figures/rent_distribution.png)
+![Rent per m² distribution](outputs/figures/rent_per_m2_distribution.png)
+![Price vs size](outputs/figures/price_vs_size.png)
 
