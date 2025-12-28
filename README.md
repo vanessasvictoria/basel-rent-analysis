@@ -1,4 +1,4 @@
-# Basel Rent Analysis 🏙️
+# Basel Rent Analysis 
 
 Exploratory analysis of Basel rental listings to understand price drivers (location, size, rooms, amenities) and typical rent ranges.
 
