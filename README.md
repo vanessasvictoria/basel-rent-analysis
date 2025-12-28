@@ -62,3 +62,7 @@ notebooks/01_eda.ipynb
 ![Rent per m² distribution](outputs/figures/rent_per_m2_distribution.png)
 ![Price vs size](outputs/figures/price_vs_size.png)
 
+## Quick takeaways (from the sample)
+- Rents cluster around ~1,600–3,500 CHF/month in this small demo sample.
+- Rent per m² varies noticeably, which hints that location/amenities matter beyond size.
+- Price increases with size, but not perfectly - there’s scatter (again: likely area/quality effects).
