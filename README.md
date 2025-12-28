@@ -46,10 +46,12 @@ To avoid issues with site terms and privacy, raw listing data is kept local and 
 1) Install dependencies:
 ```bash
 pip install -r requirements.txt
-
+```
 2) Start Jupyter
+```bash
 jupyter lab
-
-3) Open:
+```
+4) Open:
+```bash
 notebooks/01_eda.ipynb
 
